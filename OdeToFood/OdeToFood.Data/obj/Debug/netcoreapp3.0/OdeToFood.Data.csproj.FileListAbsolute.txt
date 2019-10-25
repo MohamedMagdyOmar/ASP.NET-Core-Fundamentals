@@ -1,0 +1,11 @@
+D:\Repos\ASP.NetCore\ASP.NET-Core-Fundamentals\OdeToFood\OdeToFood.Data\obj\Debug\netcoreapp3.0\OdeToFood.Data.csprojAssemblyReference.cache
+D:\Repos\ASP.NetCore\ASP.NET-Core-Fundamentals\OdeToFood\OdeToFood.Data\obj\Debug\netcoreapp3.0\OdeToFood.Data.AssemblyInfoInputs.cache
+D:\Repos\ASP.NetCore\ASP.NET-Core-Fundamentals\OdeToFood\OdeToFood.Data\obj\Debug\netcoreapp3.0\OdeToFood.Data.AssemblyInfo.cs
+D:\Repos\ASP.NetCore\ASP.NET-Core-Fundamentals\OdeToFood\OdeToFood.Data\bin\Debug\netcoreapp3.0\OdeToFood.Data.deps.json
+D:\Repos\ASP.NetCore\ASP.NET-Core-Fundamentals\OdeToFood\OdeToFood.Data\bin\Debug\netcoreapp3.0\OdeToFood.Data.dll
+D:\Repos\ASP.NetCore\ASP.NET-Core-Fundamentals\OdeToFood\OdeToFood.Data\bin\Debug\netcoreapp3.0\OdeToFood.Data.pdb
+D:\Repos\ASP.NetCore\ASP.NET-Core-Fundamentals\OdeToFood\OdeToFood.Data\bin\Debug\netcoreapp3.0\OdeToFood.Core.dll
+D:\Repos\ASP.NetCore\ASP.NET-Core-Fundamentals\OdeToFood\OdeToFood.Data\bin\Debug\netcoreapp3.0\OdeToFood.Core.pdb
+D:\Repos\ASP.NetCore\ASP.NET-Core-Fundamentals\OdeToFood\OdeToFood.Data\obj\Debug\netcoreapp3.0\OdeToFood.Data.csproj.CopyComplete
+D:\Repos\ASP.NetCore\ASP.NET-Core-Fundamentals\OdeToFood\OdeToFood.Data\obj\Debug\netcoreapp3.0\OdeToFood.Data.dll
+D:\Repos\ASP.NetCore\ASP.NET-Core-Fundamentals\OdeToFood\OdeToFood.Data\obj\Debug\netcoreapp3.0\OdeToFood.Data.pdb
