@@ -1,7 +1,6 @@
 D:\Repos\ASP.NetCore\ASP.NET-Core-Fundamentals\OdeToFood\OdeToFood.Core\bin\Debug\netcoreapp2.1\OdeToFood.Core.deps.json
 D:\Repos\ASP.NetCore\ASP.NET-Core-Fundamentals\OdeToFood\OdeToFood.Core\bin\Debug\netcoreapp2.1\OdeToFood.Core.dll
 D:\Repos\ASP.NetCore\ASP.NET-Core-Fundamentals\OdeToFood\OdeToFood.Core\bin\Debug\netcoreapp2.1\OdeToFood.Core.pdb
-D:\Repos\ASP.NetCore\ASP.NET-Core-Fundamentals\OdeToFood\OdeToFood.Core\obj\Debug\netcoreapp2.1\OdeToFood.Core.csprojAssemblyReference.cache
 D:\Repos\ASP.NetCore\ASP.NET-Core-Fundamentals\OdeToFood\OdeToFood.Core\obj\Debug\netcoreapp2.1\OdeToFood.Core.AssemblyInfoInputs.cache
 D:\Repos\ASP.NetCore\ASP.NET-Core-Fundamentals\OdeToFood\OdeToFood.Core\obj\Debug\netcoreapp2.1\OdeToFood.Core.AssemblyInfo.cs
 D:\Repos\ASP.NetCore\ASP.NET-Core-Fundamentals\OdeToFood\OdeToFood.Core\obj\Debug\netcoreapp2.1\OdeToFood.Core.dll
