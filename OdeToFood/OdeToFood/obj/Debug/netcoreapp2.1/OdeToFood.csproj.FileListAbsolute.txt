@@ -39,3 +39,4 @@ D:\Repos\ASP.NetCore\ASP.NET-Core-Fundamentals\OdeToFood\OdeToFood\obj\Debug\net
 D:\Repos\ASP.NetCore\ASP.NET-Core-Fundamentals\OdeToFood\OdeToFood\obj\Debug\netcoreapp2.1\OdeToFood.csproj.CopyComplete
 D:\Repos\ASP.NetCore\ASP.NET-Core-Fundamentals\OdeToFood\OdeToFood\obj\Debug\netcoreapp2.1\OdeToFood.dll
 D:\Repos\ASP.NetCore\ASP.NET-Core-Fundamentals\OdeToFood\OdeToFood\obj\Debug\netcoreapp2.1\OdeToFood.pdb
+D:\Repos\ASP.NetCore\ASP.NET-Core-Fundamentals\OdeToFood\OdeToFood\obj\Debug\netcoreapp2.1\Razor\Pages\Restaurants\Edit.cshtml.g.cs
